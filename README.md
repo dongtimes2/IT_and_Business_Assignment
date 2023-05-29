@@ -38,3 +38,9 @@ it와 경영 과제로 제출할 미니 프로젝트 파일 입니다.
 
 - ai
   - teachableMachine
+
+# 환경 변수
+
+- REACT_APP_SERVER_URL
+  - 백엔드 소켓 서버의 URL 값이 들어와야 됩니다.  
+    webRTC 특성상 백엔드 서버는 https 프로토콜을 사용해야 합니다.
